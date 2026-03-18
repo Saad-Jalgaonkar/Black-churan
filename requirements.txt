@@ -1,0 +1,30 @@
+# ===============================================
+# 📦 Required Python Libraries for Churn Analysis
+# ===============================================
+
+# pandas → For data cleaning, manipulation, and exploration
+pandas
+
+# numpy → For numerical operations and array-based computations
+numpy
+
+# matplotlib → For creating static plots and visualizations
+matplotlib
+
+# seaborn → For advanced and attractive statistical data visualization
+seaborn
+
+# scipy → For performing statistical tests (like t-test)
+scipy
+
+=====================================
+✅ How it works:
+=======================================
+
+Comments (lines starting with #) won’t affect installation.
+
+To Install All Dependencies
+Run This command in terminal:->
+pip install -r requirements.txt
+
+— only actual library names (pandas, numpy, etc.) will install.

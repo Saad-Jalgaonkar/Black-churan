@@ -1,0 +1,45 @@
+Manager’s Questions (Answer these with Seaborn visualizations + insights)
+
+Customer Overview
+
+How many customers are active vs churned?
+
+What is the churn percentage overall?
+
+Demographics Analysis
+
+Does age group influence customer attrition?
+
+Is there any gender difference in churn behavior?
+
+Which education or marital status group has the highest churn rate?
+
+Financial Behavior
+
+How does Income Category relate to churn?
+
+Do customers with higher Credit Limits churn less?
+
+Is there a relationship between Total Revolving Balance and churn?
+
+Card & Usage Patterns
+
+Which Card Category (Blue, Silver, Gold, Platinum) has the highest churn?
+
+Do customers with fewer total transactions tend to leave more?
+
+What is the relation between Total Transaction Amount and churn?
+
+Correlation Analysis
+
+Which numerical variables are most correlated with churn?
+
+Any noticeable relationship between Total Relationship Count, Months on Book, and churn?
+
+Managerial Insight Summary
+
+Based on your analysis, summarize:
+
+Top 3 factors that increase churn
+
+Top 3 factors that keep customers loyal
